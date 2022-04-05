@@ -176,7 +176,7 @@ if(type.value === 'invoice'){
 // invOne.amount = 500;
 // console.log(invoices);
 
-
+// Test
 // let doc : HasFormatter;
 // if(type.value === 'invoice'){
 //     doc = new Invoice(tofrom.value,details.value,amount.valueAsNumber)
