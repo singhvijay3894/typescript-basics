@@ -109,6 +109,7 @@ const amount = document.querySelector('#amount');
 // list templete instance
 const ul = document.querySelector('ul');
 const list = new ListTemplete(ul);
+// paper
 // Here we grab the from
 form.addEventListener('submit', (e) => {
     e.preventDefault();
@@ -131,6 +132,7 @@ form.addEventListener('submit', (e) => {
 // // invOne.client = 'vijay';    
 // invOne.amount = 500;
 // console.log(invoices);
+// Test
 // let doc : HasFormatter;
 // if(type.value === 'invoice'){
 //     doc = new Invoice(tofrom.value,details.value,amount.valueAsNumber)

@@ -149,6 +149,7 @@ const amount = document.querySelector('#amount') as HTMLInputElement;
 const ul = document.querySelector('ul')!;
 const list = new ListTemplete(ul);
 
+// paper
 // Here we grab the from
 form.addEventListener('submit',(e:Event) => {
      e.preventDefault();
